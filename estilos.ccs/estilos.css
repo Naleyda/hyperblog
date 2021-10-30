@@ -13,17 +13,17 @@ body{
     font-size: 0.6cm;
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5em;
 
 }
 #cabecera #tagline{
-    padding: 0 0 0 1cm;
+    padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.5cm;
 }
 #container{
     width: 70%;
-    padding: 1cm;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
@@ -34,4 +34,10 @@ body{
 }
 #post{
     padding: 1cm;
+}
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.001em;
 }
